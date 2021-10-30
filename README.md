@@ -6,6 +6,13 @@
 
 This is my first mini JS project. It represents a very simple clock. That is all :).
 
+## 🚀 Languages:
+
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/></a> 
+   
 ## 💻 Author:
 * **Soner Solakov** - *Complete clock* 
 
