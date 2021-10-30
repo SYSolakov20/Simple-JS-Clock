@@ -1,6 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap");
 body {
   background: #107869;
 }
 .clock {
   position: absolute;
+  top: 50%;
+  left: 50%;
+  color: white;
+  font-size: 60px;
+  font-family: Comfortaa;
+  font-style: normal;
+  transform: translateX(-50%) translateY(-50%);
+  font-weight: 300;
+  letter-spacing: 0.2em;
 }
